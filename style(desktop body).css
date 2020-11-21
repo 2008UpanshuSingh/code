@@ -1,0 +1,33 @@
+#desktop{
+    position:relative;
+  border-left:250px solid black;
+    height:140px;
+    top:160px;
+    left:150px;
+}
+#strip{
+   position:relative;
+   border-left:40px solid black;
+   height:30px;
+    top:160px;
+    left:250px;
+}
+#base{
+    position:relative;
+    border-left:150px solid black;
+    height:20px;
+     top:160px;
+    left:195px;
+}
+#content{
+
+position:relative;
+height:130px;
+border-left:210px solid lightskyblue;
+left:170px;
+top:294px;
+z-index:1;
+}
+#time{
+    
+}
